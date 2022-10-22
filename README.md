@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HansHandanov
-- 🔭 I'm a full stack web&blockchain developer with 10+ years experience.
-- 🌱 I’m currently learning solana.
-- 💞️ I’m looking to collaborate on blockchain project.
+- 🔭 Full stack web&blockchain developer with 10+ years experience.
+- 🌱 Currently learning solana.
+- 💞️ Looking to collaborate on blockchain project.
 - 📫 How to reach me hanshandanov.hh@gmail.com
 
 <!---
